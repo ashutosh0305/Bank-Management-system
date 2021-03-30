@@ -1,6 +1,7 @@
-#include<conio.h>
+#include<bits/stdc++.h>
+/* #include<conio.h>
 #include<stdio.h>
-#include<iostream>
+#include<iostream>*/
 using namespace std;
 
 class bank
