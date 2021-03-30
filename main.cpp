@@ -98,9 +98,7 @@ int main()
     cout<<"exit";
     }
     while (x=='y' || x=='Y');
-
-
- getch();
+    getch();
  return 0;
 
 }
